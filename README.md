@@ -4,4 +4,4 @@ Realizar un programa para hallar el mayor de tres números enteros, utilizando e
 
 # Captura de pantalla
 
-![Screenshot](https://user-images.githubusercontent.com/27830167/190841477-73a8a19f-6c08-422c-89ff-2a4d1b4359c4.png)
+no le supe :3
