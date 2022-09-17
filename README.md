@@ -5,3 +5,6 @@ Realizar un programa para hallar el mayor de tres números enteros, utilizando e
 # Captura de pantalla
 
 no le supe :3
+
+![image](https://user-images.githubusercontent.com/102566762/190867622-857db10f-fadb-493c-8e36-223e7dc80b71.png)
+
